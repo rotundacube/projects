@@ -1,0 +1,4 @@
+[submodule "cloth"]
+	path = cloth
+	url = https://github.com/rotundacube/cloth
+	branch = gh-pages
